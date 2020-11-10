@@ -8,7 +8,7 @@ See also: <https://github.com/pre-commit/pre-commit>
 Add this to your `.pre-commit-config.yaml`
 
 ```yaml
--   repo: https://github.com/nicholasmhughes/pre-commit-bannedk8skinds
+-   repo: https://github.com/eitrtechnologies/pre-commit-bannedk8skinds
     rev: v1.0.0  # Use the ref you want to point to
     hooks:
     -   id: bannedk8skinds
