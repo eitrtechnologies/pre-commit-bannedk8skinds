@@ -1,0 +1,10 @@
+---
+
+- id: bannedk8skinds
+  name: bannedk8skinds
+  description: Rewrites all Terraform configuration files to a canonical format.
+  entry: bannedk8skinds
+  language: python
+  always_run: True
+  types:
+    - yaml
