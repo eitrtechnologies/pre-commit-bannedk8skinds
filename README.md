@@ -1,4 +1,7 @@
-# pre-commit-bannedk8skinds
+# THIS REPO IS DEPRECATED.
+The `bannedk8skinds` hook has moved to: <https://github.com/eitrtechnologies/pre-commit-yamlpolicy>
+
+## pre-commit-bannedk8skinds
 pre-commit hook to deny commits of certain Kubernetes object types
 
 See also: <https://github.com/pre-commit/pre-commit>
